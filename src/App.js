@@ -1,8 +1,9 @@
+import Navi from "./Navi";
 
 function App() {
   return (
     <div>
-     <h1>Hello from React11</h1>
+<Navi></Navi>
     </div>
   );
 }
